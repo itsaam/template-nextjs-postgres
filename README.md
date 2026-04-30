@@ -35,3 +35,5 @@ and exposes the preview at `pr-<n>-<project>.preview.<your-domain>`.
 npm install
 DATABASE_URL=postgres://app:pass@localhost:5432/app npm run dev
 ```
+
+<!-- preview test PR -->
