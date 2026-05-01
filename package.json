@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "nanoid": "5.0.9",
     "next": "15.1.0",
     "pg": "8.13.1",
     "react": "19.0.0",
