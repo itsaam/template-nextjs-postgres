@@ -1,4 +1,6 @@
 version: 1
+previews:
+  trigger: mention
 services:
   web:
     build: .
